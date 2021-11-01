@@ -1,0 +1,5 @@
+run:
+  skip-files:
+    - error_test.go
+    - mysql_test.go
+    - wrapper_test.go
